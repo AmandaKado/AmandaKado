@@ -18,5 +18,5 @@
   <img align="right" alt="gif" height="80" width="80" src="https://media.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif">
 </div>
 
-### Sempre buscando aprender cada vez mais! 💕 
+### Sempre aprendendo cada vez mais! 💕 
 

@@ -19,5 +19,3 @@
 </div>
 
 ### Sempre aprendendo cada vez mais! 💕 
-
-![snake gif](https://github.com/AmandaKado/AmandaKado/blob/output/github-contribution-grid-snake.svg)

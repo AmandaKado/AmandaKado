@@ -15,7 +15,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="gif" height="80" width="80" style="border-radius: 50%;" src="https://media.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif">
+  <img align="right" alt="gif" height="80" width="80" style="border-radius: 50%" src="https://media.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif">
 </div>
 
 ### Sempre aprendendo cada vez mais! 💕 

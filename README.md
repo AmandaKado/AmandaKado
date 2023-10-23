@@ -20,4 +20,4 @@
 
 ### Sempre aprendendo cada vez mais! 💕 
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/AmandaKado/AmandaKado/blob/output/github-contribution-grid-snake.svg)

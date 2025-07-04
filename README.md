@@ -8,7 +8,7 @@
 
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmandaKado&show_icons=true&theme=cobalt"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaKado&layout=compact&langs_count=16&theme=cobalt">
+<img height="180em" border-radius="10px" src="https://github-readme-stats.vercel.app/api?username=AmandaKado&show_icons=true&theme=cobalt"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaKado&layout=compact&langs_count=16&theme=cobalt">
 
 ## Tecnologias que uso no meu dia 💻
 
